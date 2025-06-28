@@ -10,14 +10,14 @@ public class BookStorage { //класс списка книг
     static {
         books.add(new Book(
                 UUID.randomUUID().toString(),
-                "Учение Дона Хуана",
-                "Карлос Кастанеда",
-                400));
+                "Война и мир",
+                "Лев Толстой",
+                1200));
         books.add(new Book(
                 UUID.randomUUID().toString(),
-                "<Богатый Папа, Бедный Папа>"
-                , "Роберт Киосаки",
-                300));
+                "Бородино"
+                , "Михаил Лермонтов",
+                96));
     }
 
     public static Set<Book> getBooks() { //метод получить книгу
