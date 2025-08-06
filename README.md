@@ -20,3 +20,5 @@
 **Склонируйте репозиторий и запустите проект в редакторе кода (IntelliJ IDEA). Далее в браузерной строке проект будет доступен по адресу:** $${\color{#00f0ec}localhost:8080}$$
 <br>
 :black_square_button: :black_square_button: :black_square_button:
+
+![Bot](CRUD-project.png)
